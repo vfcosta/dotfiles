@@ -11,6 +11,8 @@ Bundle 'bling/vim-airline'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'tpope/vim-fugitive'
 Bundle 'MattesGroeger/vim-bookmarks'
+Bundle 'xolox/vim-misc'
+Bundle 'xolox/vim-session'
 
 call vundle#end()
 filetype plugin indent on
