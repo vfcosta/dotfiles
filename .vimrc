@@ -11,6 +11,7 @@ Bundle 'bling/vim-airline'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'tpope/vim-fugitive'
 Bundle 'MattesGroeger/vim-bookmarks'
+Bundle 'kien/ctrlp.vim'
 Bundle 'xolox/vim-misc'
 Bundle 'xolox/vim-session'
 
